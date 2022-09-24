@@ -1,11 +1,14 @@
 # Android_Movie_List_App
 Fetching Movies List with Rating From API Using Volley
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # App Highlight
 
-<img src="app_images/Movie API Code.png" /><br>
+![Movie API App1](https://user-images.githubusercontent.com/74413402/192092410-b878a572-ec36-42a7-8218-7ce5cc374d2e.png)
+![Movie API App2](https://user-images.githubusercontent.com/74413402/192092413-e7a67f26-5a73-4d32-9b2b-266ba1cd4e25.png)
+![Movie API Code](https://user-images.githubusercontent.com/74413402/192092420-c3001b9b-512d-4f10-ac6d-247160a82c3a.png)
 
-<img src="app_images/Movie API App1.png" width="300" /> <img src="app_images/Movie API App2.png" width="300" /><br>
 
 # Code
 
